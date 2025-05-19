@@ -2,11 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-<p>Apaixonado por: </p>
-<p>Tecnologia&nbsp;💻</p>
-<p>Jogos&nbsp;🎮</p>
-<p>Música&nbsp;🎧 </p>
-<p>Musculação&nbsp;🏋🏽‍♂️</p>
+
+Apaixonado por: 
+- Tecnologia&nbsp;💻
+- Jogos&nbsp;🎮
+- Música&nbsp;🎧 
+- Musculação&nbsp;🏋🏽‍♂️
 
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/araujocrk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/araujocrk?tab=repositories&sort=stargazers)
 
