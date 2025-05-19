@@ -1,15 +1,18 @@
-# 👨🏽‍💻 Ryan Araújo
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93EBFF&width=435&lines=Oii!+Eu+sou+o+Ryan+Ara%C3%BAjo)](https://git.io/typing-svg)
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ryan da Silva Araújo, tenho 21 anos e sou natural do Piauí. Atualmente, estou cursando Desenvolvimento de Sistemas no IFPI. Sou apaixonado por tecnologia, jogos e musculação.
+<p>Apaixonado por: </p>
+<p>Tecnologia&nbsp;💻</p>
+<p>Jogos&nbsp;🎮</p>
+<p>Música&nbsp;🎧 </p>
+<p>Musculação&nbsp;🏋🏽‍♂️</p>
 
-<a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/araujocrk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/araujocrk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/araujocrk?tab=repositories&sort=stargazers)
 
----
+[![Followers](https://custom-icon-badges.demolab.com/github/followers/araujocrk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/araujocrk?tab=followers)
 
-### Linguagens & Tecnologias
+## 🤖 Linguagens & Tecnologias
 
 <img 
     align="left" 
@@ -78,7 +81,15 @@ Me chamo Ryan da Silva Araújo, tenho 21 anos e sou natural do Piauí. Atualment
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 💻 Onde me encontrar
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araujocrk_)
+
+[![Twitter-X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://x.com/araujocrk_)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.araujocrk@gmail.com)
+
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -97,3 +108,8 @@ Me chamo Ryan da Silva Araújo, tenho 21 anos e sou natural do Piauí. Atualment
   />
 
 </p>
+
+<br>
+<br>
+
+
